@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there I'm Fenil Jariwala 👋
 
-I am Fenil Jariwala
-
-- 🔭 I’m currently working on Adonisjs 
+- 🔭 I’m currently working on Great Places Mobile Application 
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about Nodejs(Development, Security, Optimization, Quality) development
